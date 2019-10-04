@@ -1,9 +1,6 @@
 /*********************************
- * Name: Wilder Queen
- * Student#: 00083435
- * Class: CS 318
+ * Author:digitallybound605
  * Details: Molecular Weights
- * Date: 9/30/19
  *********************************/
 
 #include<iostream>
